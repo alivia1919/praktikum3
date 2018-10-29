@@ -2,6 +2,7 @@
 
 ## Latihan1.cpp : Program Menghitung bilangan terbesar sebanyak jumlah "n"
 
+
 **Alur algoritma**
 1. Mendeklarasikan variabel int `a,max,n` sebagai variabel input
 2. Membaca input dari keyboard `cin >> n`
@@ -9,8 +10,10 @@
 4. Bandingkan kembali kedua variabel sebanyak jumlah n atau bilangan yang di input sampai menemukan hasil `a=max` maka cetaklah.
 5. Print bilangan terbesar dari semua bilangan yang di inputkan.
 
+
 **Flowchart Program**
 ![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/Flowchart1.png)
+
 
 **code program lengkap :**
 ```c++
@@ -37,14 +40,16 @@ int main() {
     cout << "Bilangan terbesar adalah: " << max << endl;
 }
 
+
 **hasilnya :**
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/SS1.png)
+
 
 ## Latihan2.cpp : Program mengurutkan bilangan terkecil hingga ke terbesar
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
-2. Membaca input dari keyboard `cin >> A >> B >> C`
+s2. Membaca input dari keyboard `cin >> A >> B >> C`
 3. Membandingkan nilai variabel **A** dengan variabel **B** jika **A** lebih kecil daripada **B**
 4. Bandingkan kembali variabel **B** dengan variabel **C**
 5. Jika kondisi **TRUE** , Maka cetaklah bilangan secara berurutan dari yanng terkecil-terbesar yaitu **A,B,C**
@@ -58,8 +63,10 @@ int main() {
 13. Jika kondisi **FALSE** , Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu **C,B,A**
 14. Lalu, **END**.
 
+
 **Flowchart Program**
 ![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/Flowchart2.png)
+
 
 **code program lengkap :**
 ```c++
@@ -95,10 +102,13 @@ int main(){
     }
 }
 
+
 hasilnya :
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/SS2.png)
 
+
 ## Latihan3.cpp : Program mencetak nilai tengah dari 3 buah bilangan yang diinputkan
+
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
@@ -116,8 +126,10 @@ hasilnya :
 13. Jika kondisi **FALSE** , Maka cetaklah bilangan tengah dari **C,B,A** yaitu **B**
 14. Lalu, **END**.
 
+
 **Flowchart Program**
 ![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/Flowchart3.png)
+
 
 **code program lengkap :**
 ```c++
@@ -154,7 +166,9 @@ int main () {
     }
 }
 
+
 **hasilnya :**
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/SS3.png)
 
-praktikum3# praktikum3
+
+praktikum3
