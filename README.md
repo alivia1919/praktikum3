@@ -39,7 +39,7 @@ int main() {
 
     cout << "Bilangan terbesar adalah: " << max << endl;
 }
-
+```
 
 **hasilnya :**
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/SS1.png)
@@ -101,7 +101,7 @@ int main(){
         }
     }
 }
-
+```
 
 hasilnya :
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/SS2.png)
@@ -165,7 +165,7 @@ int main () {
          cout << "Bilangan tengah adalah: " << B << endl;
     }
 }
-
+```
 
 **hasilnya :**
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/SS3.png)
