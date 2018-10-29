@@ -42,6 +42,7 @@ int main() {
 ```
 
 **hasilnya :**
+
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/SS1.png)
 
 
@@ -65,7 +66,7 @@ s2. Membaca input dari keyboard `cin >> A >> B >> C`
 
 
 **Flowchart Program**
-![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/Flowchart2.png)
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/FLowchart2.png)
 
 
 **code program lengkap :**
@@ -104,6 +105,7 @@ int main(){
 ```
 
 hasilnya :
+
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/SS2.png)
 
 
@@ -168,7 +170,9 @@ int main () {
 ```
 
 **hasilnya :**
+
 ![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/SS3.png)
 
+``**TERIMA KASIH**``
 
 praktikum3
