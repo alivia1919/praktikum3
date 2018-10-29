@@ -10,6 +10,7 @@
 5. Print bilangan terbesar dari semua bilangan yang di inputkan.
 
 **Flowchart Program**
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/Flowchart1.png)
 
 **code program lengkap :**
 ```c++
@@ -37,6 +38,7 @@ int main() {
 }
 
 **hasilnya :**
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan1/SS1.png)
 
 ## Latihan2.cpp : Program mengurutkan bilangan terkecil hingga ke terbesar
 
@@ -57,7 +59,7 @@ int main() {
 14. Lalu, **END**.
 
 **Flowchart Program**
-
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/Flowchart2.png)
 
 **code program lengkap :**
 ```c++
@@ -94,6 +96,7 @@ int main(){
 }
 
 hasilnya :
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan2/SS2.png)
 
 ## Latihan3.cpp : Program mencetak nilai tengah dari 3 buah bilangan yang diinputkan
 
@@ -114,6 +117,7 @@ hasilnya :
 14. Lalu, **END**.
 
 **Flowchart Program**
+![flowchart](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/Flowchart3.png)
 
 **code program lengkap :**
 ```c++
@@ -151,5 +155,6 @@ int main () {
 }
 
 **hasilnya :**
+![hasilnya](https://raw.githubusercontent.com/alivia1919/praktikum3/master/latihan3/SS3.png)
 
 praktikum3# praktikum3
